@@ -4,5 +4,18 @@
   "createdAt": "2026-10-29T16:04:52.878Z",
   "filename": "b0a9260b-14aa-4056-a3c4-92d983918f65.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "785f6af7-0f6a-400f-b0bb-462f5774607e",
+      "role": "user",
+      "content": "ini sudah connect dengN pc ku. tp aku tidak bisa lihat history percakapan sebelumnya di pc?",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-29T17:25:52.477Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
