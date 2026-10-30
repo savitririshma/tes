@@ -40,6 +40,18 @@
       "created_at": "2026-10-30T04:13:01.110Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "a66208aa-df42-4f09-a0b8-54c41f406902",
+      "role": "agent",
+      "content": "**Ya, ikut tersimpan.** \n\nPercakapan yang sifatnya strategis, brainstorming, rencana konsep, maupun diskusi non-koding lainnya tetap ikut masuk ke dalam riwayat repository GitHub:\n\n1. **Bagaimana Percakapan Disimpan**:\n   * Antigravity menyimpan seluruh catatan percakapan (baik teks diskusi strategi maupun kode) ke dalam folder `.antigravity/chats/` dalam format `.json`.\n   * Folder ini otomatis ikut ter-commit ke Git bersamaan dengan file proyek lainnya.\n\n2. **Tampilannya di GitHub**:\n   * Di repository GitHub, percakapan Anda tidak hilang; Anda bisa membaca kembali teks obrolan, ide, dan arahan strategis yang pernah didiskusikan langsung di dalam file `.json` tersebut.\n   * Selain itu, data ini memungkinkan riwayat sesi Anda tetap utuh saat proyek dibuka kembali di Antigravity.\n\n---\n\n> [!TIP]\n> Jika Anda ingin menghubungkannya ke GitHub sekarang, cukup **ketuk ikon GitHub di bagian atas ruang chat** untuk mengaitkan repository — seluruh riwayat proyek dan obrolan Anda akan otomatis masuk ke sana.",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "454c4bb6-9413-480b-a73a-e7b596cceb75",
+      "created_at": "2026-10-30T04:13:39.731Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
